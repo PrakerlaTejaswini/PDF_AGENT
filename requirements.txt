@@ -1,6 +1,5 @@
 streamlit
-google-generativeai
-PyPDF2
+langchain
+langchain-core
+langchain-groq
 python-dotenv
-
-
